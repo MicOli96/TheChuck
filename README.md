@@ -1,4 +1,3 @@
-Hej och hå!
 
 # The Chuck
 
